@@ -1,0 +1,17 @@
+.bold {
+	font-weight: bold;
+}
+
+li {
+	list-style-type: none;
+}
+
+.indent {
+	margin-left: 15px;
+	padding-top: 5px;
+}
+
+.blue {
+	color: blue;
+}
+
